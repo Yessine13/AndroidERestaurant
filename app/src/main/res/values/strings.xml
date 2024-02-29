@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidERestaurant</string>
+    <string name="menu_starter">Entrées</string>
+    <string name="menu_main">Plats</string>
+    <string name="menu_dessert">Desserts</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_basket">BasketActivity</string>
+</resources>
